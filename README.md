@@ -1,2 +1,14 @@
 # statsyoubo-archive
-HTML page archive and documentation
+
+页面发布与维护记录
+
+本仓库用于发布静态页面，后续文件会根据任务继续追加。
+
+## 页面保存
+
+- HTML 文件按任务生成
+- README 用于记录仓库用途
+
+## 维护记录
+
+后续发布会继续追加页面，已有文件不会在 README 中逐一列出。
